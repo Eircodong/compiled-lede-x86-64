@@ -1,0 +1,3 @@
+自编译lede x86固件 并整合了一些插件包 主要使用了以下源码
+https://github.com/coolsnowwolf/lede
+https://github.com/kenzok8/small-package
